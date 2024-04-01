@@ -1,0 +1,369 @@
+@media screen and (max-width: 1200px) {
+  .header__logo img {
+    width: 100px;
+    height: 30px;
+  }
+  .footer__objetivo {
+    font-size: 20px;
+    padding-left: 90px;
+  }
+  .footer__objetivo p {
+    padding-left: 0;
+  }
+  .footer__evento {
+    font-size: 14px;
+  }
+  .footer__evento p {
+    width: 100%;
+  }
+}
+@media screen and (max-width: 992px) {
+  .footer__container {
+    margin-bottom: 70px;
+  }
+  .footer__objetivo {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer__objetivo p {
+    padding-left: 0 !important;
+  }
+  .footer__evento {
+    font-size: 14px;
+    text-align: center;
+  }
+  .footer__evento p {
+    width: 100%;
+  }
+  .none-offset-md {
+    display: none;
+  }
+  .main_registro_exitoso-card_container-secundario {
+    display: block !important;
+    text-align: center;
+    padding: 30px 0;
+  }
+  .main__registro_exitoso--card-titulo {
+    font-size: 24px;
+    color: #00002c;
+    padding-bottom: 25px;
+  }
+  .main__registro_exitoso--card-descripcion {
+    font-size: 15px;
+    color: #000079;
+    letter-spacing: 1px;
+    text-align: center;
+    line-height: 20px;
+  }
+  .evento__btn--registro {
+    letter-spacing: 1px;
+    height: 3em;
+    width: 320px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #f2f2f5;
+    border-radius: 0;
+    font-weight: 500;
+    font-size: 14px;
+    transition: all 0.5s ease-out;
+    padding: inherit;
+    background: #0017e0;
+    margin-top: 20px;
+    -webkit-box-shadow: 4px 15px 20px -7px rgba(104, 131, 199, 0.73);
+    -moz-box-shadow: 4px 15px 20px -7px rgba(104, 131, 199, 0.73);
+    box-shadow: 4px 15px 20px -7px rgba(104, 131, 199, 0.73);
+  }
+  .efade__flex {
+    gap: 0;
+  }
+  .ureg__button {
+    width: 100%;
+    box-shadow: initial;
+  }
+  .evento__formulario {
+    padding: 100px 0;
+  }
+  .main__registro_exitoso--card-titulo {
+    font-size: 24px;
+    color: #00002c;
+    padding-bottom: 25px;
+  }
+  .uregex--card-titulo {
+    font-size: 28px;
+    color: #000079;
+    letter-spacing: 1px;
+    text-align: left;
+    line-height: 35px;
+    font-weight: 700;
+  }
+  .uregex--card-descripcion {
+    font-size: 15px;
+    color: #000079;
+    letter-spacing: 1px;
+    text-align: left;
+    margin-bottom: 20px;
+  }
+  .debienvenida__titulo--movil {
+    display: block;
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .debienvenida__flex .uregex__card--fecha {
+    display: none;
+  }
+  .debienvenida-card--movil {
+    display: block;
+    width: 30%;
+    align-self: center;
+  }
+  .debienvenida__flex {
+    flex-direction: column;
+  }
+  .diaevento__bienvenida .main__registro_exitoso--container {
+    align-self: center;
+  }
+  .diaevento__registro--formulario {
+    text-align: left;
+  }
+  .diaevento__registro--formulario .evento__btn--registro {
+    width: 100%;
+  }
+  .der__card--movil {
+    display: block;
+    padding: 35px 15px 100px 15px;
+  }
+  .der__card--movil .der__card--titulo {
+    font-size: 18px;
+    padding-bottom: 20px;
+  }
+  .der__card--movil .der__card--descripcion {
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    color: #bac2cf;
+    z-index: 99;
+    position: relative;
+  }
+  footer .footer__img--button {
+    display: block;
+  }
+}
+@media screen and (max-width: 768px) {
+  .header__logo img {
+    width: 100px;
+    height: 30px;
+  }
+  .footer__objetivo {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  .footer__objetivo p {
+    padding-left: 0 !important;
+  }
+  .footer__evento {
+    font-size: 12px;
+    text-align: justify;
+  }
+  .footer__evento p {
+    width: 100%;
+  }
+  .main__rexitoso--container {
+    padding: 30px 0 0 0;
+  }
+  .main__registro_exitoso--fecha {
+    padding-bottom: 0;
+  }
+  .btn__registro_exitoso--fecha {
+    margin-bottom: 0;
+  }
+  .main__registro_exitoso--container {
+    padding: 0 !important;
+  }
+  .efade__btn--sesion {
+    top: 5%;
+    right: 5%;
+    font-size: 12px;
+  }
+  .efade__objetivo {
+    padding: 10px 15px !important;
+  }
+  .efade__flex {
+    flex-direction: column;
+  }
+  .efade__objetivo {
+    align-self: center;
+  }
+  .efade__caducidad {
+    align-self: center;
+    padding: 0 !important;
+  }
+  .evento__fechaADE {
+    padding: 70px 0 0 0;
+  }
+  .efade__titulo--principal {
+    font-size: 30px;
+  }
+  .efade__titulo--secundario {
+    font-size: 40px;
+  }
+  .efade__objetivo--proveedores {
+    font-size: 12px;
+  }
+  .efade__caducidad--titulo {
+    font-size: 16px;
+  }
+  .efade__fecha {
+    padding-bottom: 35px;
+  }
+  .efade__fecha--vencimiento {
+    font-size: 25px;
+  }
+  .efade__faltan--time {
+    font-size: 30px;
+  }
+  .ureg__mensaje {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .ureg__button {
+    width: 100% !important;
+  }
+  .unhappy__registro {
+    padding: 50px 0 0px 0;
+  }
+  .ureg__mensaje--error {
+    font-size: 15px;
+  }
+  .sesion__link--registro {
+    font-size: 13px;
+  }
+  .diaevento__registro .main__registro {
+    position: relative;
+  }
+}
+@media screen and (max-width: 600px) {
+  /* INICIO HOME ANDES DEL DIA DEL EVENTO */
+  .hade__registro--link {
+    font-size: 10px;
+    z-index: 99;
+  }
+  .hade__icon--expand {
+    font-size: 20px;
+    z-index: 99;
+  }
+  .hade__hora {
+    font-size: 12px;
+    letter-spacing: 1px;
+  }
+  .hade__objetivo--proveedores {
+    font-size: 10px;
+    letter-spacing: 1px;
+  }
+  .hade__objetivo--primario {
+    font-size: 26px;
+  }
+  .hade__objetivo--secundario {
+    font-size: 35px;
+    padding: 0 25px;
+  }
+  /* FIN HOME ANDES DEL DIA DEL EVENTO */
+  .evento__formulario--titulo {
+    font-size: 20px;
+  }
+  .evento__formulario--detalle {
+    font-size: 12px;
+  }
+  .evento__btn--registro {
+    font-size: 12px;
+  }
+  .evento__formulario--gracias {
+    font-size: 12px;
+  }
+  .main__btn--sesion {
+    top: 2%;
+    right: 2%;
+    margin-bottom: 0;
+    letter-spacing: 0px;
+    height: 30px;
+    font-size: 10px;
+    padding: 0 10px;
+    vertical-align: bottom;
+    line-height: inherit;
+  }
+  .main__registro {
+    font-size: 10px;
+    z-index: 99;
+  }
+  .main__icon--direccion {
+    font-size: 20px;
+    z-index: 99;
+  }
+  .main__btn--fecha {
+    font-size: 16px;
+    letter-spacing: 1px;
+    height: 2.2em;
+    padding: 0 20px;
+    margin-bottom: 10px;
+  }
+  .main__hora {
+    font-size: 12px;
+    letter-spacing: 1px;
+  }
+  .main__evento {
+    font-size: 10px;
+    letter-spacing: 1px;
+  }
+  .main__objetivo--primario {
+    font-size: 26px;
+  }
+  .main__objetivo--secundario {
+    font-size: 35px;
+    padding: 0 25px;
+  }
+  .form__sesion {
+    margin-left: 30px;
+    margin-right: 30px;
+  }
+  .main__rexitoso--container {
+    padding: 35px 0 0 0;
+  }
+  .main__registro_exitoso--primario {
+    position: relative;
+    z-index: 999;
+    font-size: 25px;
+  }
+  .main__registro_exitoso--secundario {
+    font-size: 33px;
+    letter-spacing: 5px;
+  }
+  .main__registro_exitoso--evento {
+    font-size: 10px;
+    padding-bottom: 15px;
+    letter-spacing: 1.1px;
+  }
+  .btn__registro_exitoso--fecha span {
+    font-size: 10px;
+    bottom: 0px;
+  }
+  .btn__registro_exitoso--fecha span.position_punto {
+    bottom: 3px;
+  }
+  .btn__registro_exitoso--fecha {
+    position: relative;
+    z-index: 99;
+  }
+  .evento__btn--registro {
+    width: 300px;
+  }
+  .debienvenida-card--movil {
+    width: 70%;
+  }
+}
+@media only screen and (min-width: 1200px) {
+  .container {
+    width: 100%;
+  }
+}
